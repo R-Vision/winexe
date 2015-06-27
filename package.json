@@ -1,0 +1,26 @@
+{
+  "name": "winexe",
+  "version": "0.0.1",
+  "description": "Wrapper around the winexe and psexec",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Vision/winexe.git"
+  },
+  "keywords": [
+    "winexe",
+    "psexec"
+  ],
+  "author": "Nickolay Alexandrov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/R-Vision/winexe/issues"
+  },
+  "homepage": "https://github.com/R-Vision/winexe#readme"
+}
