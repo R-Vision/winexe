@@ -10,7 +10,7 @@ npm install winexe
 ```javascript
 var WinExe = require('winexe');
 
-var winexe = new WmiClient({
+var winexe = new WinExe({
     username: 'LOGIN',
     password: 'PASSWORD',
     host: 'IP-ADDRESS'
