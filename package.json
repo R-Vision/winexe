@@ -1,6 +1,6 @@
 {
   "name": "winexe",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Wrapper around the winexe and psexec/paexec",
   "main": "index.js",
   "directories": {
@@ -29,5 +29,9 @@
     "dev-null": "^0.1.1",
     "getos": "^2.4.0",
     "shelljs": "^0.5.3"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
   }
 }
