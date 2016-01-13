@@ -1,5 +1,5 @@
 # winexe
-Wrapper around the winexe and psexec
+Wrapper around the winexe and psexec|paexec
 
 ### Install
 ```bash
