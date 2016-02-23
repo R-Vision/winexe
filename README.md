@@ -13,7 +13,8 @@ var WinExe = require('winexe');
 var winexe = new WinExe({
     username: 'LOGIN',
     password: 'PASSWORD',
-    host: 'IP-ADDRESS'
+    host: 'IP-ADDRESS',
+    timeout: 60000 // optional timeout in ms, winexe process will be killed with SIGKILL
 });
 
 // Run command on remote host
