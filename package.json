@@ -27,11 +27,11 @@
   "homepage": "https://github.com/R-Vision/winexe#readme",
   "dependencies": {
     "dev-null": "^0.1.1",
-    "getos": "^2.4.0",
-    "shelljs": "^0.5.3"
+    "getos": "^2.6.2",
+    "shelljs": "^0.6.0"
   },
   "devDependencies": {
-    "chai": "^3.4.1",
-    "mocha": "^2.3.4"
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }
